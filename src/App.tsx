@@ -255,11 +255,13 @@ export default function App() {
             <span className="block sm:hidden text-[2.2rem] leading-[0.95] tracking-[-0.08em] px-0">
               <span className="block whitespace-nowrap text-[#155DFC]">+250 Dinâmicas</span>
               <span className="block whitespace-nowrap">que Tornam suas Aulas</span>
-              <span className="block whitespace-nowrap">de Hidroginástica <span className="text-[#155DFC]">Mais</span></span>
-              <span className="block whitespace-nowrap text-[#155DFC]">Envolventes</span>
+              <span className="block whitespace-nowrap">de Hidroginástica Mais</span>
+              <span className="block whitespace-nowrap">
+                <span className="text-[#155DFC]">Envolventes</span> e <span className="text-[#155DFC]">Divertidas</span>
+              </span>
             </span>
             <span className="hidden sm:inline">
-              <span className="text-[#155DFC]">+250 Dinâmicas</span> que Tornam suas Aulas de Hidroginástica <span className="text-[#155DFC]">Mais Envolventes</span>
+              <span className="text-[#155DFC]">+250 Dinâmicas</span> que Tornam suas Aulas de Hidroginástica <span className="text-[#155DFC]">Mais Envolventes</span> e <span className="text-[#155DFC]">Divertidas</span>
             </span>
           </motion.h1>
           
