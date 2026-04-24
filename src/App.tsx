@@ -254,8 +254,8 @@ export default function App() {
           >
             <span className="block sm:hidden text-[2.2rem] leading-[0.95] tracking-[-0.08em] px-0">
               <span className="block whitespace-nowrap text-[#155DFC]">+250 Dinâmicas</span>
-              <span className="block whitespace-nowrap">que Tornam suas Aulas de</span>
-              <span className="block whitespace-nowrap">Hidroginástica <span className="text-[#155DFC]">Mais</span></span>
+              <span className="block whitespace-nowrap">que Tornam suas Aulas</span>
+              <span className="block whitespace-nowrap">de Hidroginástica <span className="text-[#155DFC]">Mais</span></span>
               <span className="block whitespace-nowrap text-[#155DFC]">Envolventes</span>
             </span>
             <span className="hidden sm:inline">
