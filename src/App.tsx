@@ -256,10 +256,10 @@ export default function App() {
               <span className="block whitespace-nowrap text-[#155DFC]">+250 Dinâmicas</span>
               <span className="block whitespace-nowrap">que Tornam suas Aulas de</span>
               <span className="block whitespace-nowrap">Hidroginástica <span className="text-[#155DFC]">Mais</span></span>
-              <span className="block whitespace-nowrap text-[#155DFC]">Motivadoras e Divertidas</span>
+              <span className="block whitespace-nowrap text-[#155DFC]">Envolventes</span>
             </span>
             <span className="hidden sm:inline">
-              <span className="text-[#155DFC]">+250 Dinâmicas</span> que Tornam suas Aulas de Hidroginástica <span className="text-[#155DFC]">Mais Motivadoras</span> e Divertidas
+              <span className="text-[#155DFC]">+250 Dinâmicas</span> que Tornam suas Aulas de Hidroginástica <span className="text-[#155DFC]">Mais Envolventes</span>
             </span>
           </motion.h1>
           
