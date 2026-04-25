@@ -611,8 +611,8 @@ export default function App() {
       {/* Guarantee Section */}
       <section className="bg-white py-6 px-4">
         <div className="max-w-xl mx-auto bg-white rounded-3xl shadow-[0_0_40px_rgba(0,0,0,0.05)] p-6 text-center border border-gray-100">
-          <div className="w-20 h-20 bg-[#F0FDF4] rounded-full flex items-center justify-center mx-auto mb-4">
-            <ShieldCheck className="w-10 h-10 text-[#10B981]" />
+          <div className="w-20 h-20 bg-[#EFF6FF] rounded-full flex items-center justify-center mx-auto mb-4">
+            <ShieldCheck className="w-10 h-10 text-[#155DFC]" />
           </div>
           <h2 className="text-2xl sm:text-3xl font-black text-gray-900 mb-3">Risco zero por 7 dias</h2>
           <p className="text-gray-600 text-sm sm:text-base mb-4">Você pode acessar o material e testar por 7 dias. Se não gostar, é só pedir o reembolso e recebe 100% do seu dinheiro de volta.</p>
