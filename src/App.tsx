@@ -250,7 +250,7 @@ export default function App() {
           <motion.h1 
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
-            className="text-[26px] min-[390px]:text-[30px] min-[430px]:text-[34px] sm:text-[35px] md:text-[47px] lg:text-[59px] font-black text-gray-900 leading-[0.95] sm:leading-[1] md:leading-[1.05] mb-6 tracking-[-0.05em] sm:tracking-tighter max-w-6xl mx-auto px-0 sm:px-2"
+            className="text-[26px] min-[375px]:text-[30px] min-[414px]:text-[34px] sm:text-4xl md:text-5xl lg:text-6xl font-black text-gray-900 leading-[0.95] sm:leading-[1] md:leading-[1.05] mb-6 tracking-[-0.05em] sm:tracking-tighter max-w-6xl mx-auto px-0 sm:px-2"
           >
             <span className="block sm:hidden leading-[0.95] tracking-[-0.08em] px-0">
               <span className="block whitespace-nowrap"><span className="text-[#155DFC]">+250 Dinâmicas</span> que</span>
