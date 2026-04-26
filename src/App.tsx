@@ -504,9 +504,9 @@ export default function App() {
                     +R$ 97 EM BÔNUS INCLUSOS
                   </div>
                   <ul className="space-y-1.5 text-gray-600 text-[11px] font-medium">
-                    <li className="flex items-center gap-2">• Certificado de Participação</li>
-                    <li className="flex items-center gap-2">• Quiz de Saúde Aquática</li>
-                    <li className="flex items-center gap-2">• Planejamento de Aulas Prontos</li>
+                    <li className="flex items-center gap-2">• Certificado de Conclusão</li>
+                    <li className="flex items-center gap-2">• Ficha de Avaliação de Alunos</li>
+                    <li className="flex items-center gap-2">• Aquecimentos Prontos</li>
                   </ul>
                 </div>
 
