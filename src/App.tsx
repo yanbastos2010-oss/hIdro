@@ -584,9 +584,9 @@ export default function App() {
           <h2 className="text-2xl sm:text-3xl font-black text-center text-[#0F172A] mb-8">Depoimentos Reais</h2>
           <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
             {[
-              { name: "Márcia", role: "Instrutora de Hidro", text: "Minhas aulas mudaram da água pro vinho! O pessoal se diverte muito e agora ninguém falta mais.", img: "https://i.ibb.co/BJPQMBx/Captura-de-tela-2026-04-12-012538.png" },
-              { name: "Roberto", role: "Personal de Piscina", text: "Eu tinha muita dificuldade em variar as aulas, agora é só abrir o PDF e escolher a dinâmica do dia.", img: "https://i.ibb.co/hFh1KPqd/Captura-de-tela-2026-01-24-154100.png" },
-              { name: "Cláudia", role: "Dona de Academia", text: "Nossas aulas ficaram incríveis, os alunos adoram a integração que as dinâmicas geram na piscina.", img: "https://i.ibb.co/r25SBbLx/Captura-de-tela-2026-04-12-012425.png" }
+              { name: "Márcia", role: "Professora", text: "Me salvou! Eu já não sabia mais o que inventar nas aulas. O pessoal tem amado e as turmas estão sempre cheias agora.", img: "https://i.ibb.co/BJPQMBx/Captura-de-tela-2026-04-12-012538.png" },
+              { name: "Roberto", role: "Professor", text: "Muito prático. Eu abro o celular antes da aula, escolho uma dinâmica rápida e passo pra turma. O pessoal se diverte demais.", img: "https://i.ibb.co/hFh1KPqd/Captura-de-tela-2026-01-24-154100.png" },
+              { name: "Cláudia", role: "Professora", text: "Valeu muito a pena. As aulas saíram daquela mesmice de sempre e agora tenho um monte de material pra usar.", img: "https://i.ibb.co/r25SBbLx/Captura-de-tela-2026-04-12-012425.png" }
             ].map((t, i) => (
               <div key={i} className="bg-white border border-orange-100 rounded-2xl p-5 shadow-sm hover:shadow-md transition-shadow">
                 <div className="flex items-center gap-3 mb-3">
